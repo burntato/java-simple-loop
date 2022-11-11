@@ -16,7 +16,7 @@ public class loop {
             System.out.println(word);
         }
 
-        System.out.println("Finished printing");
+        System.out.println("Finished printing" + " " + word + " " + num + " " + "times");
 
         // close the scanner
         input.close();
